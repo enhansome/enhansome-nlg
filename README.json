@@ -355,10 +355,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:07:15Z",
+            "last_commit": "2026-08-15T14:50:31Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164104
+            "stars": 164109
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:09:14.341Z",
+    "last_updated": "2026-08-15T15:39:54.512Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",
     "enhanced_repository": "enhansome/enhansome-nlg",

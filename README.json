@@ -177,7 +177,7 @@
             "last_commit": "2024-08-20T16:26:23Z",
             "owner": "Maluuba",
             "repo": "nlg-eval",
-            "stars": 1390
+            "stars": 1391
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-18T18:27:04Z",
             "owner": "facebookresearch",
             "repo": "vizseq",
-            "stars": 457
+            "stars": 456
           }
         }
       ],
@@ -345,7 +345,7 @@
             "last_commit": "2024-11-03T16:46:02Z",
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2205
+            "stars": 2206
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-19T15:17:39Z",
+            "last_commit": "2026-08-20T15:47:23Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164258
+            "stars": 164275
           }
         },
         {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:50:40.072Z",
+    "last_updated": "2026-08-20T15:52:34.702Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_id": 212309257,
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",

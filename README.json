@@ -111,7 +111,7 @@
             "last_commit": "2023-09-03T11:55:41Z",
             "owner": "rodrigopivi",
             "repo": "Chatito",
-            "stars": 889
+            "stars": 888
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-20T15:47:23Z",
+            "last_commit": "2026-08-21T15:49:00Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164275
+            "stars": 164308
           }
         },
         {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:52:34.702Z",
+    "last_updated": "2026-08-21T15:52:24.518Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_id": 212309257,
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",

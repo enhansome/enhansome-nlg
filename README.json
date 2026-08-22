@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-21T15:49:00Z",
+            "last_commit": "2026-08-22T09:41:09Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164308
+            "stars": 164336
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2024-03-09T23:26:36Z",
             "owner": "EagleW",
             "repo": "PaperRobot",
-            "stars": 479
+            "stars": 480
           }
         },
         {
@@ -579,7 +579,7 @@
             "archived": false,
             "id": 41432965,
             "language": "HTML",
-            "last_commit": "2026-08-16T18:36:08Z",
+            "last_commit": "2026-08-22T14:48:01Z",
             "owner": "rali-udem",
             "repo": "jsRealB",
             "stars": 27
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:52:24.518Z",
+    "last_updated": "2026-08-22T15:39:55.630Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_id": 212309257,
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",

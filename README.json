@@ -111,7 +111,7 @@
             "last_commit": "2023-09-03T11:55:41Z",
             "owner": "rodrigopivi",
             "repo": "Chatito",
-            "stars": 888
+            "stars": 889
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-18T18:27:04Z",
             "owner": "facebookresearch",
             "repo": "vizseq",
-            "stars": 456
+            "stars": 457
           }
         }
       ],
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-22T09:41:09Z",
+            "last_commit": "2026-08-23T15:11:41Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164336
+            "stars": 164361
           }
         },
         {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:39:55.630Z",
+    "last_updated": "2026-08-23T15:41:20.744Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_id": 212309257,
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",

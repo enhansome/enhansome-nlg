@@ -35,7 +35,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Dialog
 
 * [Plato](https://github.com/uber-research/plato-research-dialogue-system) ⚠️ Archived - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
-* [Chatito](https://github.com/rodrigopivi/Chatito) ⭐ 888 | 🐛 24 | 🌐 TypeScript | 📅 2023-09-03 - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
+* [Chatito](https://github.com/rodrigopivi/Chatito) ⭐ 889 | 🐛 24 | 🌐 TypeScript | 📅 2023-09-03 - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 * [RNNLG](https://github.com/shawnwun/RNNLG) ⭐ 490 | 🐛 3 | 🌐 Python | 📅 2019-07-02 - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
 * [NNDIAL](https://github.com/shawnwun/NNDIAL) ⭐ 353 | 🐛 7 | 🌐 Python | 📅 2017-06-14 - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
 * [TGen](https://github.com/UFAL-DSG/tgen) ⭐ 207 | 🐛 5 | 🌐 Python | 📅 2021-12-05 - Statistical NLG for spoken dialogue systems.
@@ -45,7 +45,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 * [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,391 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 * [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt) ⭐ 794 | 🐛 22 | 🌐 Python | 📅 2023-08-04
 * [compare-mt](https://github.com/neulab/compare-mt) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2025-09-22 - A tool for holistic analysis of language generations systems.
-* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 456 | 🐛 7 | 🌐 Python | 📅 2026-08-18 - A Visual Analysis Toolkit for Text Generation Tasks.
+* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 457 | 🐛 7 | 🌐 Python | 📅 2026-08-18 - A Visual Analysis Toolkit for Text Generation Tasks.
 * [GEM](https://gem-benchmark.com/) - a benchmark environment for NLG with a focus on its Evaluation, both through human annotations and automated Metrics.
 
 ## Grammar
@@ -69,7 +69,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,336 | 🐛 2,394 | 🌐 Python | 📅 2026-08-22 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,361 | 🐛 2,406 | 🌐 Python | 📅 2026-08-23 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,923 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,389 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,837 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

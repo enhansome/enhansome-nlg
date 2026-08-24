@@ -309,7 +309,7 @@
             "last_commit": "2026-07-07T16:39:03Z",
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
-            "stars": 1111
+            "stars": 1112
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-23T15:11:41Z",
+            "last_commit": "2026-08-24T14:07:06Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164361
+            "stars": 164394
           }
         },
         {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:41:20.744Z",
+    "last_updated": "2026-08-24T14:24:31.000Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_id": 212309257,
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",

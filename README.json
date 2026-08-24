@@ -378,7 +378,7 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-24T14:07:06Z",
+            "last_commit": "2026-08-24T15:33:34Z",
             "owner": "huggingface",
             "repo": "transformers",
             "stars": 164394
@@ -426,7 +426,7 @@
             "last_commit": "2023-07-14T10:52:26Z",
             "owner": "minimaxir",
             "repo": "aitextgen",
-            "stars": 1837
+            "stars": 1838
           }
         },
         {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:31.000Z",
+    "last_updated": "2026-08-24T15:59:24.834Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_id": 212309257,
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",

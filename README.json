@@ -30,7 +30,7 @@
             "last_commit": "2022-03-21T03:51:23Z",
             "owner": "harvardnlp",
             "repo": "boxscore-data",
-            "stars": 115
+            "stars": 114
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2024-11-03T16:46:02Z",
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2206
+            "stars": 2207
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-25T06:13:39Z",
+            "last_commit": "2026-08-25T16:03:38Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164413
+            "stars": 164430
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2022-07-17T19:07:49Z",
             "owner": "minimaxir",
             "repo": "textgenrnn",
-            "stars": 4923
+            "stars": 4922
           }
         },
         {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:54.111Z",
+    "last_updated": "2026-08-25T16:04:11.033Z",
     "original_repository": "accelerated-text/awesome-nlg",
     "original_repository_id": 212309257,
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",

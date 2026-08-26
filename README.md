@@ -58,18 +58,18 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Libraries
 
-* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,112 | 🐛 0 | 🌐 C# | 📅 2026-07-07 - A .NET library that converts cron expressions into human readable descriptions.
+* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,113 | 🐛 0 | 🌐 C# | 📅 2026-07-07 - A .NET library that converts cron expressions into human readable descriptions.
 * [Number Words](https://github.com/tokenmill/numberwords) ⭐ 199 | 🐛 1 | 🌐 Clojure | 📅 2021-01-20 - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 * [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
 ## Narrative Generation
 
-* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,207 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
+* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,208 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
 * [Random Story Generator](https://github.com/aherriot/story-generator) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2012-06-05 - Using Natural Language Generation (NLG) to create a random short story.
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,430 | 🐛 2,404 | 🌐 Python | 📅 2026-08-25 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,464 | 🐛 2,408 | 🌐 Python | 📅 2026-08-26 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,922 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,389 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,838 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

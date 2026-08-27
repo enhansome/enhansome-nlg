@@ -192,7 +192,7 @@
             "last_commit": "2023-08-04T12:53:10Z",
             "owner": "google-research",
             "repo": "bleurt",
-            "stars": 794
+            "stars": 793
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-26T16:02:50Z",
+            "last_commit": "2026-08-27T11:48:22Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164464
+            "stars": 164499
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2023-07-14T10:52:26Z",
             "owner": "minimaxir",
             "repo": "aitextgen",
-            "stars": 1838
+            "stars": 1837
           }
         },
         {
@@ -671,9 +671,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:11.200Z",
-    "original_repository": "accelerated-text/awesome-nlg",
-    "original_repository_id": 212309257,
+    "last_updated": "2026-08-27T11:52:30.674Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 212309257,
+      "language": null,
+      "last_commit": "2023-09-03T09:17:31Z",
+      "owner": "accelerated-text",
+      "repo": "awesome-nlg",
+      "stars": 482
+    },
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",
     "enhanced_repository": "enhansome/enhansome-nlg",
     "enhanced_repository_description": null,

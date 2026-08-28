@@ -378,10 +378,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-27T11:48:22Z",
+            "last_commit": "2026-08-28T00:12:58Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164499
+            "stars": 164517
           }
         },
         {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:30.674Z",
+    "last_updated": "2026-08-28T00:27:05.321Z",
     "original_repository_info": {
       "archived": false,
       "id": 212309257,

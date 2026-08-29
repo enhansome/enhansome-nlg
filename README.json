@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Schema-Guided Dialogue Dataset",
+            "homepage": null,
             "id": 191678635,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-08-07T23:10:50Z",
+            "open_issues": 3,
             "owner": "google-research-datasets",
             "repo": "dstc8-schema-guided-dialogue",
-            "stars": 608
+            "stars": 608,
+            "topics": [
+              "assistant",
+              "dataset",
+              "dialogue",
+              "dialogue-systems",
+              "nlp-machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 91747661,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-21T03:51:23Z",
+            "open_issues": 4,
             "owner": "harvardnlp",
             "repo": "boxscore-data",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The enriched version of the WebNLG described at INLG 2018",
+            "homepage": null,
             "id": 151064448,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-25T22:12:19Z",
+            "open_issues": 5,
             "owner": "ThiagoCF05",
             "repo": "webnlg",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -58,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset for NLG which contains preceding context along with each generation instance",
+            "homepage": null,
             "id": 53058526,
             "language": null,
+            "license": null,
             "last_commit": "2016-09-18T17:22:49Z",
+            "open_issues": 0,
             "owner": "UFAL-DSG",
             "repo": "alex_context_nlg_dataset",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -74,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 112517332,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-26T21:55:00Z",
+            "open_issues": 0,
             "owner": "pvougiou",
             "repo": "Neural-Wikipedian",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -96,12 +127,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.",
+            "homepage": null,
             "id": 192620864,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-15T21:04:16Z",
+            "open_issues": 3,
             "owner": "uber-archive",
             "repo": "plato-research-dialogue-system",
-            "stars": 980
+            "stars": 980,
+            "topics": [
+              "conversational-agent",
+              "conversational-ai",
+              "conversational-ui",
+              "deep-learning",
+              "dialogue-systems",
+              "machine-learning",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -112,12 +156,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎯🗯 Dataset generation for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!",
+            "homepage": "https://rodrigopivi.github.io/Chatito/",
             "id": 111699912,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-09-03T11:55:41Z",
+            "open_issues": 24,
             "owner": "rodrigopivi",
             "repo": "Chatito",
-            "stars": 889
+            "stars": 889,
+            "topics": [
+              "chatbot",
+              "chatbots",
+              "chatito",
+              "dataset",
+              "dataset-generation",
+              "named-entity-recognition",
+              "nlg",
+              "nlp",
+              "nlu",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -128,12 +188,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2.0.",
+            "homepage": null,
             "id": 66077191,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-02T10:07:16Z",
+            "open_issues": 3,
             "owner": "shawnwun",
             "repo": "RNNLG",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "benchmark-datasets",
+              "deep-learning",
+              "dialogue",
+              "dialogue-generation",
+              "dialogue-systems",
+              "machine-learning",
+              "natural-language-generation",
+              "natural-language-processing",
+              "nlg-dataset"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -144,12 +219,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2.0.",
+            "homepage": null,
             "id": 92519579,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-14T10:27:04Z",
+            "open_issues": 7,
             "owner": "shawnwun",
             "repo": "NNDIAL",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "dialogue",
+              "dialogue-agents",
+              "dialogue-generation",
+              "dialogue-manager",
+              "dialogue-systems",
+              "dialogues",
+              "machine-learning",
+              "machine-learning-library",
+              "natural-language-generation",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -160,12 +251,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statistical NLG for spoken dialogue systems",
+            "homepage": null,
             "id": 34386986,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-05T17:30:40Z",
+            "open_issues": 5,
             "owner": "UFAL-DSG",
             "repo": "tgen",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "computational-linguistics",
+              "dialogue",
+              "dialogue-systems",
+              "natural-language-generation",
+              "python",
+              "seq2seq",
+              "seq2seq-generation",
+              "tgen"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -182,12 +287,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluation code for various unsupervised automated metrics for Natural Language Generation.",
+            "homepage": "http://arxiv.org/abs/1706.09799",
             "id": 95585342,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-20T16:26:23Z",
+            "open_issues": 32,
             "owner": "Maluuba",
             "repo": "nlg-eval",
-            "stars": 1391
+            "stars": 1391,
+            "topics": [
+              "bleu",
+              "bleu-score",
+              "cider",
+              "dialog",
+              "dialogue",
+              "evaluation",
+              "machine-translation",
+              "meteor",
+              "natural-language-generation",
+              "natural-language-processing",
+              "nlg",
+              "nlp",
+              "rouge",
+              "rouge-l",
+              "skip-thought-vectors",
+              "skip-thoughts",
+              "task-oriented-dialogue"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -198,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BLEURT is a metric for Natural Language Generation based on transfer learning.",
+            "homepage": "https://arxiv.org/abs/2004.04696",
             "id": 259940805,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-04T12:53:10Z",
+            "open_issues": 22,
             "owner": "google-research",
             "repo": "bleurt",
-            "stars": 793
+            "stars": 793,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -214,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for holistic analysis of language generations systems",
+            "homepage": null,
             "id": 146455410,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-09-22T19:57:37Z",
+            "open_issues": 5,
             "owner": "neulab",
             "repo": "compare-mt",
-            "stars": 471
+            "stars": 471,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -230,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Analysis Toolkit for Natural Language Generation (Translation, Captioning, Summarization, etc.)",
+            "homepage": "https://arxiv.org/abs/1909.05424",
             "id": 204480061,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T18:27:04Z",
+            "open_issues": 7,
             "owner": "facebookresearch",
             "repo": "vizseq",
-            "stars": 457
+            "stars": 457,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -252,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenCCG library for parsing and realization with CCG",
+            "homepage": "http://openccg.sourceforge.net/",
             "id": 8999347,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-03T19:33:15Z",
+            "open_issues": 13,
             "owner": "OpenCCG",
             "repo": "openccg",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -268,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://homepages.inf.ed.ac.uk/s1049478/easyccg.html",
             "id": 19532172,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2017-12-02T14:56:18Z",
+            "open_issues": 7,
             "owner": "mikelewis0",
             "repo": "easyccg",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -284,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combinatory Categorial Grammar (CCG): Full set CCG, and  probabilistic CCG",
+            "homepage": null,
             "id": 75837609,
             "language": "Common Lisp",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-12T16:59:47Z",
+            "open_issues": 0,
             "owner": "bozsahin",
             "repo": "ccglab",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -300,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Web platform for parsing and annotation",
+            "homepage": null,
             "id": 113301457,
             "language": "Hack",
+            "license": null,
             "last_commit": "2022-12-07T12:20:40Z",
+            "open_issues": 4,
             "owner": "texttheater",
             "repo": "ccgweb",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -322,12 +485,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A .NET library that converts cron expressions into human readable descriptions.",
+            "homepage": "https://bradymholt.github.io/cron-expression-descriptor/",
             "id": 3457099,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-07T16:39:03Z",
+            "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
-            "stars": 1113
+            "stars": 1113,
+            "topics": [
+              "c-sharp",
+              "cron",
+              "cron-expression",
+              "cron-libraries",
+              "human-readable-descriptions",
+              "nuget",
+              "quartz"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -338,12 +514,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.",
+            "homepage": null,
             "id": 233411459,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-20T12:30:45Z",
+            "open_issues": 1,
             "owner": "accelerated-text",
             "repo": "numberwords",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "clojure",
+              "fuzzy-logic",
+              "natural-language-generation",
+              "number-to-text",
+              "number-to-words"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -360,12 +547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tracery: a story-grammar generation library for javascript",
+            "homepage": null,
             "id": 26183338,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-03T16:46:02Z",
+            "open_issues": 32,
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2208
+            "stars": 2208,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -376,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using Natural Language Generation (NLG) to create a random short story.",
+            "homepage": null,
             "id": 4350833,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2012-06-05T22:53:57Z",
+            "open_issues": 1,
             "owner": "aherriot",
             "repo": "story-generator",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -398,12 +595,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+            "homepage": "https://huggingface.co/transformers",
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-29T00:00:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:30:04Z",
+            "open_issues": 2396,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164579
+            "stars": 164588,
+            "topics": [
+              "audio",
+              "deep-learning",
+              "deepseek",
+              "gemma",
+              "glm",
+              "hacktoberfest",
+              "llm",
+              "machine-learning",
+              "model-hub",
+              "natural-language-processing",
+              "nlp",
+              "pretrained-models",
+              "python",
+              "pytorch",
+              "pytorch-transformers",
+              "qwen",
+              "speech-recognition",
+              "transformer",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -414,12 +636,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.",
+            "homepage": null,
             "id": 99527575,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-17T19:07:49Z",
+            "open_issues": 145,
             "owner": "minimaxir",
             "repo": "textgenrnn",
-            "stars": 4922
+            "stars": 4922,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "python",
+              "tensorflow",
+              "text-generation"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -430,12 +663,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/",
+            "homepage": "https://asyml.io",
             "id": 98052177,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T02:23:58Z",
+            "open_issues": 40,
             "owner": "asyml",
             "repo": "texar",
-            "stars": 2389
+            "stars": 2389,
+            "topics": [
+              "bert",
+              "casl-project",
+              "data-processing",
+              "deep-learning",
+              "dialog-systems",
+              "gpt-2",
+              "machine-learning",
+              "machine-translation",
+              "natural-language-processing",
+              "python",
+              "tensorflow",
+              "texar",
+              "text-data",
+              "text-generation",
+              "xlnet"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -446,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust Python tool for text-based AI training and generation using GPT-2.",
+            "homepage": "https://docs.aitextgen.io",
             "id": 230705617,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-14T10:52:26Z",
+            "open_issues": 133,
             "owner": "minimaxir",
             "repo": "aitextgen",
-            "stars": 1837
+            "stars": 1837,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -462,12 +721,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.",
+            "homepage": null,
             "id": 219833342,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-20T16:47:37Z",
+            "open_issues": 30,
             "owner": "uber-research",
             "repo": "PPLM",
-            "stars": 1152
+            "stars": 1152,
+            "topics": [
+              "deep-learning",
+              "language-modeling",
+              "machine-learning",
+              "natural-language-generation",
+              "natural-language-processing",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -478,12 +749,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural question generation using transformers",
+            "homepage": null,
             "id": 276923850,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-05T13:52:05Z",
+            "open_issues": 80,
             "owner": "patil-suraj",
             "repo": "question_generation",
-            "stars": 1141
+            "stars": 1141,
+            "topics": [
+              "deep-learning",
+              "natural-language-generation",
+              "natural-language-processing",
+              "nlg",
+              "nlp",
+              "question-generation",
+              "t5",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -494,12 +779,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Word Does Not Exist",
+            "homepage": "https://www.thisworddoesnotexist.com",
             "id": 245949080,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-17T15:37:19Z",
+            "open_issues": 24,
             "owner": "turtlesoupy",
             "repo": "this-word-does-not-exist",
-            "stars": 1023
+            "stars": 1023,
+            "topics": [
+              "gpt-2",
+              "machine-learning",
+              "natural-language-generation",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -510,12 +807,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for PaperRobot: Incremental Draft Generation of Scientific Ideas",
+            "homepage": "https://aclanthology.org/P19-1191",
             "id": 187303082,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-09T23:26:36Z",
+            "open_issues": 0,
             "owner": "EagleW",
             "repo": "PaperRobot",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "attention-mechanism",
+              "datasets",
+              "end-to-end-learning",
+              "generation",
+              "memory-networks",
+              "natural-language-generation",
+              "nlp",
+              "paper-generation",
+              "pytorch",
+              "text-generation"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -526,12 +839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the paper -> https://arxiv.org/abs/1709.00155. For converting information present in the form of structured data into natural language text",
+            "homepage": null,
             "id": 111774411,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-12T09:08:07Z",
+            "open_issues": 4,
             "owner": "akanimax",
             "repo": "natural-language-summary-generation-from-structured-data",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -542,12 +860,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py",
+            "homepage": null,
             "id": 150276301,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-12T09:34:15Z",
+            "open_issues": 10,
             "owner": "diegma",
             "repo": "graph-2-text",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -558,12 +881,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] A Neural Network based generative model for captioning images using Tensorflow",
+            "homepage": null,
             "id": 72290258,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-12-01T22:30:20Z",
+            "open_issues": 12,
             "owner": "neural-nuts",
             "repo": "image-caption-generator",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "artificial-intelligence",
+              "captioning-images",
+              "computer-vision",
+              "convolutional-neural-networks",
+              "image-captioning",
+              "lstm",
+              "lstm-neural-networks",
+              "natural-language-generation",
+              "neural-network",
+              "recurrent-neural-networks",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -574,12 +914,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalistic codebase for training NLG models from HuggingFace Transformers using PyTorch Lightning.",
+            "homepage": null,
             "id": 500502047,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-23T14:59:03Z",
+            "open_issues": 1,
             "owner": "kasnerz",
             "repo": "lightnlg",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bart",
+              "generation",
+              "gpt-2",
+              "language-model",
+              "nlg",
+              "nlp",
+              "pytorch",
+              "pytorch-lightning"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -596,12 +950,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java API for Natural Language Generation. Originally developed by Ehud Reiter at the University of Aberdeen’s Department of Computing Science and co-founder of Arria NLG. This git repo is the official SimpleNLG version.",
+            "homepage": null,
             "id": 23165112,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-06T12:07:07Z",
+            "open_issues": 17,
             "owner": "simplenlg",
             "repo": "simplenlg",
-            "stars": 830
+            "stars": 830,
+            "topics": [
+              "java",
+              "natural-language",
+              "natural-language-generation",
+              "nlg",
+              "realiser",
+              "simplenlg",
+              "surface-realiser"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -612,12 +979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript bilingual text realizer for web development",
+            "homepage": null,
             "id": 41432965,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:46:50Z",
+            "open_issues": 0,
             "owner": "rali-udem",
             "repo": "jsRealB",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -628,12 +1000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2",
+            "homepage": null,
             "id": 29534889,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-04-23T14:07:17Z",
+            "open_issues": 3,
             "owner": "rali-udem",
             "repo": "SimpleNLG-EnFr",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -644,12 +1021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar",
+            "homepage": null,
             "id": 7177286,
             "language": "Haskell",
+            "license": "GPL-2.0",
             "last_commit": "2015-05-04T05:39:22Z",
+            "open_issues": 33,
             "owner": "kowey",
             "repo": "GenI",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -660,12 +1042,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "German version of SimpleNLG 4",
+            "homepage": "https://wwwmatthes.in.tum.de/",
             "id": 207360287,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-25T12:25:44Z",
+            "open_issues": 2,
             "owner": "sebischair",
             "repo": "SimpleNLG-DE",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "java",
+              "natural-language",
+              "nlg",
+              "simplenlg"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -682,12 +1074,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby library for generating text with recursive template grammars.",
+            "homepage": null,
             "id": 45290994,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-11-01T12:02:13Z",
+            "open_issues": 10,
             "owner": "maetl",
             "repo": "calyx",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "dsl",
+              "generative-art",
+              "grammars",
+              "ruby",
+              "syntax-tree",
+              "text"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         },
@@ -698,12 +1102,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural language generation language",
+            "homepage": null,
             "id": 81758453,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-30T12:42:35Z",
+            "open_issues": 3,
             "owner": "spro",
             "repo": "nalgene",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "natural-language-generation",
+              "nlg"
+            ]
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
         }
@@ -712,15 +1124,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:04.904Z",
+    "last_updated": "2026-08-29T04:42:06.941Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",
+      "homepage": null,
       "id": 212309257,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-09-03T09:17:31Z",
+      "open_issues": 1,
       "owner": "accelerated-text",
       "repo": "awesome-nlg",
-      "stars": 482
+      "stars": 482,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "natural-language-generation",
+        "natural-language-understanding",
+        "nlg"
+      ]
     },
     "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",
     "enhanced_repository": "enhansome/enhansome-nlg",

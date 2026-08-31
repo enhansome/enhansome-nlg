@@ -64,12 +64,12 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Narrative Generation
 
-* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,208 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
+* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,209 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
 * [Random Story Generator](https://github.com/aherriot/story-generator) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2012-06-05 - Using Natural Language Generation (NLG) to create a random short story.
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,636 | 🐛 2,402 | 🌐 Python | 📅 2026-08-30 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,670 | 🐛 2,407 | 🌐 Python | 📅 2026-08-31 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,922 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,389 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,837 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -109,8 +109,8 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Realizers
 
-* [SimpleNLG](https://github.com/simplenlg/simplenlg) ⭐ 830 | 🐛 17 | 🌐 Java | 📅 2024-12-06 - Java API for Natural Language Generation.
-* [JSrealB](https://github.com/rali-udem/JSrealB) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 - A JavaScript bilingual text realizer for web development.
+* [SimpleNLG](https://github.com/simplenlg/simplenlg) ⭐ 831 | 🐛 17 | 🌐 Java | 📅 2024-12-06 - Java API for Natural Language Generation.
+* [JSrealB](https://github.com/rali-udem/JSrealB) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2026-08-31 - A JavaScript bilingual text realizer for web development.
 * [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) ⭐ 25 | 🐛 3 | 🌐 Java | 📅 2018-04-23 - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2.
 * [Genl](https://github.com/kowey/GenI) ⭐ 21 | 🐛 33 | 🌐 Haskell | 📅 2015-05-04 - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
 * [SimpleNLG DE](https://github.com/sebischair/SimpleNLG-DE) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2023-03-25 - German version of SimpleNLG 4.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

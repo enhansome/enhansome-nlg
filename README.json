@@ -356,7 +356,7 @@
             "open_issues": 5,
             "owner": "neulab",
             "repo": "compare-mt",
-            "stars": 471,
+            "stars": 470,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -600,11 +600,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T20:25:39Z",
-            "open_issues": 2407,
+            "last_commit": "2026-09-01T18:06:37Z",
+            "open_issues": 2391,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164670,
+            "stars": 164702,
             "topics": [
               "audio",
               "deep-learning",
@@ -672,7 +672,7 @@
             "open_issues": 40,
             "owner": "asyml",
             "repo": "texar",
-            "stars": 2389,
+            "stars": 2388,
             "topics": [
               "bert",
               "casl-project",
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:52:28.914Z",
+    "last_updated": "2026-09-01T18:37:55.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

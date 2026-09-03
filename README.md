@@ -45,7 +45,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 * [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,391 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 * [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt) ⭐ 793 | 🐛 22 | 🌐 Python | 📅 2023-08-04
 * [compare-mt](https://github.com/neulab/compare-mt) ⭐ 470 | 🐛 5 | 🌐 Python | 📅 2025-09-22 - A tool for holistic analysis of language generations systems.
-* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 457 | 🐛 7 | 🌐 Python | 📅 2026-08-18 - A Visual Analysis Toolkit for Text Generation Tasks.
+* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 457 | 🐛 2 | 🌐 Python | 📅 2026-09-03 - A Visual Analysis Toolkit for Text Generation Tasks.
 * [GEM](https://gem-benchmark.com/) - a benchmark environment for NLG with a focus on its Evaluation, both through human annotations and automated Metrics.
 
 ## Grammar
@@ -58,23 +58,23 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Libraries
 
-* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,113 | 🐛 0 | 🌐 C# | 📅 2026-07-07 - A .NET library that converts cron expressions into human readable descriptions.
+* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,114 | 🐛 0 | 🌐 C# | 📅 2026-07-07 - A .NET library that converts cron expressions into human readable descriptions.
 * [Number Words](https://github.com/tokenmill/numberwords) ⭐ 199 | 🐛 1 | 🌐 Clojure | 📅 2021-01-20 - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 * [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
 ## Narrative Generation
 
-* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,209 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
+* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,210 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
 * [Random Story Generator](https://github.com/aherriot/story-generator) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2012-06-05 - Using Natural Language Generation (NLG) to create a random short story.
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,726 | 🐛 2,393 | 🌐 Python | 📅 2026-09-02 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-* [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,922 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,747 | 🐛 2,388 | 🌐 Python | 📅 2026-09-03 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,921 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,388 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
 * [PPLM](https://github.com/uber-research/PPLM) ⭐ 1,152 | 🐛 30 | 🌐 Python | 📅 2024-02-20 - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
-* [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) ⭐ 1,141 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2024-04-05 - Question generation is the task of automatically generating questions from a text paragraph.
+* [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) ⭐ 1,140 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2024-04-05 - Question generation is the task of automatically generating questions from a text paragraph.
 * [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) ⭐ 1,023 | 🐛 24 | 🌐 Python | 📅 2026-06-17 - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) ⭐ 480 | 🐛 0 | 🌐 Python | 📅 2024-03-09 - We present a PaperRobot who performs as an automatic research assistant.
 * [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2019-03-12 - For converting information present in the form of structured data into natural language text.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

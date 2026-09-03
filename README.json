@@ -373,8 +373,8 @@
             "id": 204480061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-18T18:27:04Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-03T04:39:22Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "vizseq",
             "stars": 457,
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
-            "stars": 1113,
+            "stars": 1114,
             "topics": [
               "c-sharp",
               "cron",
@@ -556,7 +556,7 @@
             "open_issues": 32,
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2209,
+            "stars": 2210,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -600,11 +600,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T18:37:03Z",
-            "open_issues": 2393,
+            "last_commit": "2026-09-03T18:22:22Z",
+            "open_issues": 2388,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164726,
+            "stars": 164747,
             "topics": [
               "audio",
               "deep-learning",
@@ -645,7 +645,7 @@
             "open_issues": 145,
             "owner": "minimaxir",
             "repo": "textgenrnn",
-            "stars": 4922,
+            "stars": 4921,
             "topics": [
               "deep-learning",
               "keras",
@@ -758,7 +758,7 @@
             "open_issues": 80,
             "owner": "patil-suraj",
             "repo": "question_generation",
-            "stars": 1141,
+            "stars": 1140,
             "topics": [
               "deep-learning",
               "natural-language-generation",
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:47:28.850Z",
+    "last_updated": "2026-09-03T18:46:25.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

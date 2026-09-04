@@ -64,12 +64,12 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Narrative Generation
 
-* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,210 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
+* [Tracery](https://github.com/galaxykate/tracery) ⭐ 2,211 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-03 - A story-grammar generation library for JavaScript.
 * [Random Story Generator](https://github.com/aherriot/story-generator) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2012-06-05 - Using Natural Language Generation (NLG) to create a random short story.
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,747 | 🐛 2,388 | 🌐 Python | 📅 2026-09-03 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,785 | 🐛 2,380 | 🌐 Python | 📅 2026-09-04 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,921 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,388 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

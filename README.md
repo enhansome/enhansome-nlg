@@ -69,13 +69,13 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,785 | 🐛 2,380 | 🌐 Python | 📅 2026-09-04 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 164,821 | 🐛 2,392 | 🌐 Python | 📅 2026-09-05 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,921 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,388 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
 * [PPLM](https://github.com/uber-research/PPLM) ⭐ 1,152 | 🐛 30 | 🌐 Python | 📅 2024-02-20 - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 * [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) ⭐ 1,140 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2024-04-05 - Question generation is the task of automatically generating questions from a text paragraph.
-* [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) ⭐ 1,023 | 🐛 24 | 🌐 Python | 📅 2026-06-17 - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
+* [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) ⭐ 1,024 | 🐛 24 | 🌐 Python | 📅 2026-06-17 - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) ⭐ 480 | 🐛 0 | 🌐 Python | 📅 2024-03-09 - We present a PaperRobot who performs as an automatic research assistant.
 * [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2019-03-12 - For converting information present in the form of structured data into natural language text.
 * [graph-2-text](https://github.com/diegma/graph-2-text) ⭐ 153 | 🐛 10 | 🌐 Python | 📅 2019-07-12 - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

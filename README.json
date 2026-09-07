@@ -491,7 +491,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-07T16:39:03Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
             "stars": 1114,
@@ -600,11 +600,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T14:45:09Z",
-            "open_issues": 2404,
+            "last_commit": "2026-09-07T18:39:41Z",
+            "open_issues": 2406,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164889,
+            "stars": 164960,
             "topics": [
               "audio",
               "deep-learning",
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:37:04.276Z",
+    "last_updated": "2026-09-07T19:14:10.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

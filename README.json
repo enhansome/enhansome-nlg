@@ -165,7 +165,7 @@
             "open_issues": 24,
             "owner": "rodrigopivi",
             "repo": "Chatito",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "chatbot",
               "chatbots",
@@ -373,8 +373,8 @@
             "id": 204480061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T04:39:22Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-09T01:03:14Z",
+            "open_issues": 3,
             "owner": "facebookresearch",
             "repo": "vizseq",
             "stars": 457,
@@ -490,8 +490,8 @@
             "id": 3457099,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-07-07T16:39:03Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-09T15:34:10Z",
+            "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
             "stars": 1114,
@@ -600,11 +600,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T18:21:00Z",
-            "open_issues": 2399,
+            "last_commit": "2026-09-09T18:03:05Z",
+            "open_issues": 2406,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 165000,
+            "stars": 165038,
             "topics": [
               "audio",
               "deep-learning",
@@ -959,7 +959,7 @@
             "open_issues": 17,
             "owner": "simplenlg",
             "repo": "simplenlg",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "java",
               "natural-language",
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:47:03.898Z",
+    "last_updated": "2026-09-09T18:41:49.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

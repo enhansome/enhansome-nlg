@@ -45,7 +45,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 * [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,391 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 * [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt) ⭐ 793 | 🐛 22 | 🌐 Python | 📅 2023-08-04
 * [compare-mt](https://github.com/neulab/compare-mt) ⭐ 470 | 🐛 5 | 🌐 Python | 📅 2025-09-22 - A tool for holistic analysis of language generations systems.
-* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 457 | 🐛 5 | 🌐 Python | 📅 2026-09-10 - A Visual Analysis Toolkit for Text Generation Tasks.
+* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 457 | 🐛 6 | 🌐 Python | 📅 2026-09-13 - A Visual Analysis Toolkit for Text Generation Tasks.
 * [GEM](https://gem-benchmark.com/) - a benchmark environment for NLG with a focus on its Evaluation, both through human annotations and automated Metrics.
 
 ## Grammar
@@ -69,7 +69,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 165,184 | 🐛 2,417 | 🌐 Python | 📅 2026-09-12 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 165,403 | 🐛 2,441 | 🌐 Python | 📅 2026-09-13 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,921 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,388 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -110,7 +110,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Realizers
 
 * [SimpleNLG](https://github.com/simplenlg/simplenlg) ⭐ 832 | 🐛 17 | 🌐 Java | 📅 2024-12-06 - Java API for Natural Language Generation.
-* [JSrealB](https://github.com/rali-udem/JSrealB) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2026-08-31 - A JavaScript bilingual text realizer for web development.
+* [JSrealB](https://github.com/rali-udem/JSrealB) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2026-09-12 - A JavaScript bilingual text realizer for web development.
 * [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) ⭐ 25 | 🐛 3 | 🌐 Java | 📅 2018-04-23 - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2.
 * [Genl](https://github.com/kowey/GenI) ⭐ 21 | 🐛 33 | 🌐 Haskell | 📅 2015-05-04 - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
 * [SimpleNLG DE](https://github.com/sebischair/SimpleNLG-DE) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2023-03-25 - German version of SimpleNLG 4.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

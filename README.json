@@ -600,11 +600,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T19:50:42Z",
-            "open_issues": 2428,
+            "last_commit": "2026-09-15T19:04:44Z",
+            "open_issues": 2429,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 165904,
+            "stars": 166182,
             "topics": [
               "audio",
               "deep-learning",
@@ -672,7 +672,7 @@
             "open_issues": 40,
             "owner": "asyml",
             "repo": "texar",
-            "stars": 2387,
+            "stars": 2388,
             "topics": [
               "bert",
               "casl-project",
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:52:06.075Z",
+    "last_updated": "2026-09-15T19:04:55.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

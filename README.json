@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "accelerated-text",
             "repo": "numberwords",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "clojure",
               "fuzzy-logic",
@@ -600,11 +600,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T19:04:44Z",
-            "open_issues": 2429,
+            "last_commit": "2026-09-16T17:16:09Z",
+            "open_issues": 2436,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166182,
+            "stars": 166253,
             "topics": [
               "audio",
               "deep-learning",
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:04:55.631Z",
+    "last_updated": "2026-09-16T18:56:05.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

@@ -59,7 +59,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Libraries
 
 * [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,114 | 🐛 0 | 🌐 C# | 📅 2026-09-09 - A .NET library that converts cron expressions into human readable descriptions.
-* [Number Words](https://github.com/tokenmill/numberwords) ⭐ 199 | 🐛 1 | 🌐 Clojure | 📅 2021-01-20 - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
+* [Number Words](https://github.com/tokenmill/numberwords) ⭐ 200 | 🐛 1 | 🌐 Clojure | 📅 2021-01-20 - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 * [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
 ## Narrative Generation
@@ -69,7 +69,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,182 | 🐛 2,429 | 🌐 Python | 📅 2026-09-15 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,253 | 🐛 2,436 | 🌐 Python | 📅 2026-09-16 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,921 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,388 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -103,7 +103,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Products
 
-* [Accelerated Text](https://github.com/tokenmill/accelerated-text) ⭐ 807 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-10 - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+* [Accelerated Text](https://github.com/tokenmill/accelerated-text) ⭐ 806 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-10 - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
 * [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 * [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

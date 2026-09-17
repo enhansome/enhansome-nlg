@@ -136,7 +136,7 @@
             "open_issues": 3,
             "owner": "uber-archive",
             "repo": "plato-research-dialogue-system",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "conversational-agent",
               "conversational-ai",
@@ -335,7 +335,7 @@
             "open_issues": 22,
             "owner": "google-research",
             "repo": "bleurt",
-            "stars": 793,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -356,7 +356,7 @@
             "open_issues": 5,
             "owner": "neulab",
             "repo": "compare-mt",
-            "stars": 470,
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -377,7 +377,7 @@
             "open_issues": 6,
             "owner": "facebookresearch",
             "repo": "vizseq",
-            "stars": 457,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -600,11 +600,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:16:09Z",
-            "open_issues": 2436,
+            "last_commit": "2026-09-17T19:05:04Z",
+            "open_issues": 2421,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166253,
+            "stars": 166248,
             "topics": [
               "audio",
               "deep-learning",
@@ -645,7 +645,7 @@
             "open_issues": 145,
             "owner": "minimaxir",
             "repo": "textgenrnn",
-            "stars": 4921,
+            "stars": 4920,
             "topics": [
               "deep-learning",
               "keras",
@@ -672,7 +672,7 @@
             "open_issues": 40,
             "owner": "asyml",
             "repo": "texar",
-            "stars": 2388,
+            "stars": 2389,
             "topics": [
               "bert",
               "casl-project",
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:56:05.378Z",
+    "last_updated": "2026-09-17T19:05:53.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",
@@ -1136,7 +1136,7 @@
       "open_issues": 1,
       "owner": "accelerated-text",
       "repo": "awesome-nlg",
-      "stars": 482,
+      "stars": 483,
       "topics": [
         "awesome",
         "awesome-list",

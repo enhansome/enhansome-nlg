@@ -24,9 +24,9 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 * [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) ⚠️ Archived - The Schema-Guided Dialogue (SGD) dataset consists of over 20k annotated multi-domain, task-oriented conversations between a human and a virtual assistant.
 * [Box-score data](https://github.com/harvardnlp/boxscore-data/) ⭐ 114 | 🐛 4 | 🌐 HTML | 📅 2022-03-21 - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
 * [WebNLG](https://github.com/ThiagoCF05/webnlg) ⭐ 71 | 🐛 5 | 🌐 Python | 📅 2021-03-25 - The enriched version of the WebNLG - a resource for evaluating common NLG tasks, including Discourse Ordering, Lexicalization and Referring Expression Generation.
+* [E2E](https://github.com/tuetschek/e2e-dataset) ⭐ 29 | 🐛 0 | 📅 2018-01-25 - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
 * [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) ⭐ 22 | 🐛 0 | 📅 2016-09-18 - A dataset for NLG in dialogue systems in the public transport information domain.
 * [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) ⭐ 10 | 🐛 0 | 🌐 C++ | 📅 2018-08-26 - The repository contains the code along with the required corpora that were used in order to build a system that "learns" how to generate English biographies for Semantic Web triples.
-* [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
 * [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
 * [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/) - This dataset gathers 728,321 biographies from wikipedia. It aims at evaluating text generation algorithms.
 * [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains semantic representations, short, and long descriptions for 51K companies in English.
@@ -42,7 +42,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Evaluation
 
-* [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,391 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
+* [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,392 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 * [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt) ⭐ 792 | 🐛 22 | 🌐 Python | 📅 2023-08-04
 * [compare-mt](https://github.com/neulab/compare-mt) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2025-09-22 - A tool for holistic analysis of language generations systems.
 * [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 458 | 🐛 2 | 🌐 Python | 📅 2026-09-21 - A Visual Analysis Toolkit for Text Generation Tasks.
@@ -58,7 +58,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Libraries
 
-* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,114 | 🐛 0 | 🌐 C# | 📅 2026-09-09 - A .NET library that converts cron expressions into human readable descriptions.
+* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,115 | 🐛 0 | 🌐 C# | 📅 2026-09-09 - A .NET library that converts cron expressions into human readable descriptions.
 * [Number Words](https://github.com/tokenmill/numberwords) ⭐ 200 | 🐛 1 | 🌐 Clojure | 📅 2021-01-20 - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 * [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
@@ -69,12 +69,12 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,477 | 🐛 2,415 | 🌐 Python | 📅 2026-09-21 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,529 | 🐛 2,394 | 🌐 Python | 📅 2026-09-22 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,920 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,389 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
 * [PPLM](https://github.com/uber-research/PPLM) ⭐ 1,152 | 🐛 30 | 🌐 Python | 📅 2024-02-20 - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
-* [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) ⭐ 1,139 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2024-04-05 - Question generation is the task of automatically generating questions from a text paragraph.
+* [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) ⭐ 1,138 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2024-04-05 - Question generation is the task of automatically generating questions from a text paragraph.
 * [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) ⭐ 1,024 | 🐛 24 | 🌐 Python | 📅 2026-06-17 - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) ⭐ 480 | 🐛 0 | 🌐 Python | 📅 2024-03-09 - We present a PaperRobot who performs as an automatic research assistant.
 * [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2019-03-12 - For converting information present in the form of structured data into natural language text.
@@ -104,7 +104,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Products
 
 * [Accelerated Text](https://github.com/tokenmill/accelerated-text) ⭐ 806 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-10 - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
-* [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
+* [RosaeNLG](https://github.com/RosaeNLG/rosaenlg) ⚠️ Archived - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 * [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ## Realizers
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

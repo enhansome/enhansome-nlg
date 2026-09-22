@@ -74,6 +74,27 @@
         },
         {
           "node_type": "item",
+          "title": "E2E",
+          "description": "This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The E2E NLG Challenge Dataset",
+            "homepage": null,
+            "id": 118661234,
+            "language": null,
+            "license": null,
+            "last_commit": "2018-01-25T12:54:25Z",
+            "open_issues": 0,
+            "owner": "tuetschek",
+            "repo": "e2e-dataset",
+            "stars": 29,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T18:59:12.899Z"
+        },
+        {
+          "node_type": "item",
           "title": "Alex Context NLG Dataset",
           "description": "A dataset for NLG in dialogue systems in the public transport information domain.",
           "children": [],
@@ -296,7 +317,7 @@
             "open_issues": 32,
             "owner": "Maluuba",
             "repo": "nlg-eval",
-            "stars": 1391,
+            "stars": 1392,
             "topics": [
               "bleu",
               "bleu-score",
@@ -494,7 +515,7 @@
             "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
-            "stars": 1114,
+            "stars": 1115,
             "topics": [
               "c-sharp",
               "cron",
@@ -600,11 +621,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T18:25:01Z",
-            "open_issues": 2415,
+            "last_commit": "2026-09-22T17:49:14Z",
+            "open_issues": 2394,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166477,
+            "stars": 166529,
             "topics": [
               "audio",
               "deep-learning",
@@ -758,7 +779,7 @@
             "open_issues": 80,
             "owner": "patil-suraj",
             "repo": "question_generation",
-            "stars": 1139,
+            "stars": 1138,
             "topics": [
               "deep-learning",
               "natural-language-generation",
@@ -945,6 +966,62 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Accelerated Text",
+          "description": "Automatically generate multiple natural language descriptions of your data varying in wording and structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Accelerated Text is a no-code natural language generation platform. It will help you construct document plans which define how your data is converted to textual descriptions varying in wording and structure.",
+            "homepage": "https://www.acceleratedtext.com",
+            "id": 210517337,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2023-03-10T11:07:11Z",
+            "open_issues": 9,
+            "owner": "accelerated-text",
+            "repo": "accelerated-text",
+            "stars": 806,
+            "topics": [
+              "clojure",
+              "graphql",
+              "javascript",
+              "natural-language-generation",
+              "nlg",
+              "nocode",
+              "text-generation"
+            ]
+          },
+          "first_seen": "2026-09-22T18:59:12.899Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RosaeNLG",
+          "description": "An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "RosaeNLG is a Natural Language Generation library for node.js and browser rendering, based on the Pug template engine.",
+            "homepage": "https://rosaenlg.org",
+            "id": 307465447,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-06T14:45:45Z",
+            "open_issues": 0,
+            "owner": "RosaeNLG",
+            "repo": "rosaenlg",
+            "stars": 106,
+            "topics": []
+          },
+          "first_seen": "2026-09-22T18:59:12.899Z"
+        }
+      ],
+      "title": "Products"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "SimpleNLG",
           "description": "Java API for Natural Language Generation.",
           "children": [],
@@ -1124,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:01:08.324Z",
+    "last_updated": "2026-09-22T18:59:12.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",
@@ -1132,8 +1209,8 @@
       "id": 212309257,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2023-09-03T09:17:31Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-22T07:34:37Z",
+      "open_issues": 1,
       "owner": "accelerated-text",
       "repo": "awesome-nlg",
       "stars": 483,
@@ -1145,7 +1222,7 @@
         "nlg"
       ]
     },
-    "original_repository_sha": "e12d701762a97047e28383ae8b09e13b7e88d280",
+    "original_repository_sha": "80e5f2d96e983a8d9f9f547e720c61f4a59c563c",
     "enhanced_repository": "enhansome/enhansome-nlg",
     "enhanced_repository_description": null,
     "title": "Awesome Natural Language Generation with stars"

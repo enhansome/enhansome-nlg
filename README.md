@@ -45,7 +45,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 * [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,392 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 * [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt) ⭐ 792 | 🐛 22 | 🌐 Python | 📅 2023-08-04
 * [compare-mt](https://github.com/neulab/compare-mt) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2025-09-22 - A tool for holistic analysis of language generations systems.
-* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 458 | 🐛 2 | 🌐 Python | 📅 2026-09-22 - A Visual Analysis Toolkit for Text Generation Tasks.
+* [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 459 | 🐛 2 | 🌐 Python | 📅 2026-09-22 - A Visual Analysis Toolkit for Text Generation Tasks.
 * [GEM](https://gem-benchmark.com/) - a benchmark environment for NLG with a focus on its Evaluation, both through human annotations and automated Metrics.
 
 ## Grammar
@@ -69,8 +69,8 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,564 | 🐛 2,397 | 🌐 Python | 📅 2026-09-23 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-* [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,920 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,602 | 🐛 2,389 | 🌐 Python | 📅 2026-09-24 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,919 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,389 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
 * [PPLM](https://github.com/uber-research/PPLM) ⭐ 1,152 | 🐛 30 | 🌐 Python | 📅 2024-02-20 - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

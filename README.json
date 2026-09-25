@@ -218,7 +218,7 @@
             "open_issues": 3,
             "owner": "shawnwun",
             "repo": "RNNLG",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "benchmark-datasets",
               "deep-learning",
@@ -394,7 +394,7 @@
             "id": 204480061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:57:38Z",
+            "last_commit": "2026-09-24T19:44:50Z",
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "vizseq",
@@ -621,11 +621,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T18:05:36Z",
-            "open_issues": 2389,
+            "last_commit": "2026-09-25T19:14:27Z",
+            "open_issues": 2380,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166602,
+            "stars": 166651,
             "topics": [
               "audio",
               "deep-learning",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:17:06.084Z",
+    "last_updated": "2026-09-25T19:19:24.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

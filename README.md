@@ -51,7 +51,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Grammar
 
 * [OpenCCG](https://github.com/OpenCCG/openccg) ⭐ 220 | 🐛 13 | 🌐 Java | 📅 2021-02-03 - OpenCCG library for parsing and realization with CCG.
-* [EasyCCG](https://github.com/mikelewis0/easyccg) ⭐ 62 | 🐛 7 | 🌐 Java | 📅 2017-12-02 - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
+* [EasyCCG](https://github.com/mikelewis0/easyccg) ⭐ 63 | 🐛 7 | 🌐 Java | 📅 2017-12-02 - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 * [CCG Lab](https://github.com/bozsahin/ccglab) ⭐ 27 | 🐛 0 | 🌐 Common Lisp | 📅 2025-12-12 - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 * [CCGweb](https://github.com/texttheater/ccgweb) ⭐ 5 | 🐛 4 | 🌐 Hack | 📅 2022-12-07 - A Web platform for parsing and annotation.
 * [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications.
@@ -69,7 +69,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,651 | 🐛 2,380 | 🌐 Python | 📅 2026-09-25 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 166,692 | 🐛 2,383 | 🌐 Python | 📅 2026-09-26 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,919 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,389 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

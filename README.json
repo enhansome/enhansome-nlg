@@ -398,7 +398,7 @@
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "vizseq",
-            "stars": 459,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -621,11 +621,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T17:12:47Z",
-            "open_issues": 2367,
+            "last_commit": "2026-10-01T19:06:58Z",
+            "open_issues": 2352,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166863,
+            "stars": 166894,
             "topics": [
               "audio",
               "deep-learning",
@@ -693,7 +693,7 @@
             "open_issues": 40,
             "owner": "asyml",
             "repo": "texar",
-            "stars": 2389,
+            "stars": 2390,
             "topics": [
               "bert",
               "casl-project",
@@ -730,7 +730,7 @@
             "open_issues": 133,
             "owner": "minimaxir",
             "repo": "aitextgen",
-            "stars": 1836,
+            "stars": 1837,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:07:17.067Z",
+    "last_updated": "2026-10-01T20:22:45.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

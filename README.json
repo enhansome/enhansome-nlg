@@ -343,7 +343,7 @@
         {
           "node_type": "item",
           "title": "BLEURT: a Transfer Learning-Based Metric for Natural Language Generation",
-          "description": null,
+          "description": "google-research/bleurt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,11 +621,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:58:32Z",
-            "open_issues": 2357,
+            "last_commit": "2026-10-03T03:54:50Z",
+            "open_issues": 2360,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166903,
+            "stars": 166911,
             "topics": [
               "audio",
               "deep-learning",
@@ -779,7 +779,7 @@
             "open_issues": 80,
             "owner": "patil-suraj",
             "repo": "question_generation",
-            "stars": 1138,
+            "stars": 1137,
             "topics": [
               "deep-learning",
               "natural-language-generation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:59:00.335Z",
+    "last_updated": "2026-10-03T04:59:09.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

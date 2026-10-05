@@ -186,7 +186,7 @@
             "open_issues": 24,
             "owner": "rodrigopivi",
             "repo": "Chatito",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "chatbot",
               "chatbots",
@@ -394,7 +394,7 @@
             "id": 204480061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T13:48:40Z",
+            "last_commit": "2026-10-05T03:40:03Z",
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "vizseq",
@@ -521,6 +521,9 @@
               "cron",
               "cron-expression",
               "cron-libraries",
+              "crontab",
+              "csharp",
+              "dotnet",
               "human-readable-descriptions",
               "nuget",
               "quartz"
@@ -621,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T17:34:06Z",
-            "open_issues": 2375,
+            "last_commit": "2026-10-05T21:46:01Z",
+            "open_issues": 2356,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166951,
+            "stars": 166983,
             "topics": [
               "audio",
               "deep-learning",
@@ -1201,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:41:02.410Z",
+    "last_updated": "2026-10-05T22:04:16.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

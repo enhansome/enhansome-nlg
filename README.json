@@ -580,7 +580,7 @@
             "open_issues": 32,
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2220,
+            "stars": 2221,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T20:17:38Z",
-            "open_issues": 2355,
+            "last_commit": "2026-10-09T19:32:04Z",
+            "open_issues": 2335,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166861,
+            "stars": 166919,
             "topics": [
               "audio",
               "deep-learning",
@@ -733,7 +733,7 @@
             "open_issues": 133,
             "owner": "minimaxir",
             "repo": "aitextgen",
-            "stars": 1837,
+            "stars": 1836,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -754,7 +754,7 @@
             "open_issues": 30,
             "owner": "uber-research",
             "repo": "PPLM",
-            "stars": 1152,
+            "stars": 1153,
             "topics": [
               "deep-learning",
               "language-modeling",
@@ -812,7 +812,7 @@
             "open_issues": 24,
             "owner": "turtlesoupy",
             "repo": "this-word-does-not-exist",
-            "stars": 1024,
+            "stars": 1025,
             "topics": [
               "gpt-2",
               "machine-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:43:07.012Z",
+    "last_updated": "2026-10-09T20:08:57.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

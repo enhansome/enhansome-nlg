@@ -356,7 +356,7 @@
             "open_issues": 23,
             "owner": "google-research",
             "repo": "bleurt",
-            "stars": 791,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T20:07:42Z",
-            "open_issues": 2336,
+            "last_commit": "2026-10-13T19:29:32Z",
+            "open_issues": 2325,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 167599,
+            "stars": 167682,
             "topics": [
               "audio",
               "deep-learning",
@@ -669,7 +669,7 @@
             "open_issues": 145,
             "owner": "minimaxir",
             "repo": "textgenrnn",
-            "stars": 4920,
+            "stars": 4918,
             "topics": [
               "deep-learning",
               "keras",
@@ -696,7 +696,7 @@
             "open_issues": 40,
             "owner": "asyml",
             "repo": "texar",
-            "stars": 2390,
+            "stars": 2391,
             "topics": [
               "bert",
               "casl-project",
@@ -840,7 +840,7 @@
             "open_issues": 0,
             "owner": "EagleW",
             "repo": "PaperRobot",
-            "stars": 480,
+            "stars": 479,
             "topics": [
               "attention-mechanism",
               "datasets",
@@ -1039,7 +1039,7 @@
             "open_issues": 17,
             "owner": "simplenlg",
             "repo": "simplenlg",
-            "stars": 832,
+            "stars": 833,
             "topics": [
               "java",
               "natural-language",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:31:06.757Z",
+    "last_updated": "2026-10-13T20:43:53.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

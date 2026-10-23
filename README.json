@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T17:16:03Z",
-            "open_issues": 940,
+            "last_commit": "2026-10-23T19:04:03Z",
+            "open_issues": 986,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 167993,
+            "stars": 168036,
             "topics": [
               "audio",
               "deep-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:16:22.005Z",
+    "last_updated": "2026-10-23T19:20:29.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",
@@ -1216,7 +1216,7 @@
       "open_issues": 1,
       "owner": "accelerated-text",
       "repo": "awesome-nlg",
-      "stars": 482,
+      "stars": 483,
       "topics": [
         "awesome",
         "awesome-list",

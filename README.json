@@ -157,7 +157,7 @@
             "open_issues": 3,
             "owner": "uber-archive",
             "repo": "plato-research-dialogue-system",
-            "stars": 980,
+            "stars": 979,
             "topics": [
               "conversational-agent",
               "conversational-ai",
@@ -398,7 +398,7 @@
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "vizseq",
-            "stars": 461,
+            "stars": 462,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T20:01:54Z",
-            "open_issues": 1019,
+            "last_commit": "2026-10-29T19:43:01Z",
+            "open_issues": 1025,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168285,
+            "stars": 168323,
             "topics": [
               "audio",
               "deep-learning",
@@ -812,7 +812,7 @@
             "open_issues": 24,
             "owner": "turtlesoupy",
             "repo": "this-word-does-not-exist",
-            "stars": 1025,
+            "stars": 1024,
             "topics": [
               "gpt-2",
               "machine-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:21:59.676Z",
+    "last_updated": "2026-10-29T20:21:13.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

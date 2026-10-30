@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
-            "stars": 1115,
+            "stars": 1116,
             "topics": [
               "c-sharp",
               "cron",
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T19:43:01Z",
-            "open_issues": 1025,
+            "last_commit": "2026-10-30T17:40:42Z",
+            "open_issues": 1013,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168323,
+            "stars": 168361,
             "topics": [
               "audio",
               "deep-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:21:13.423Z",
+    "last_updated": "2026-10-30T19:56:54.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

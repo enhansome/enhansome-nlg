@@ -377,7 +377,7 @@
             "open_issues": 5,
             "owner": "neulab",
             "repo": "compare-mt",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -398,7 +398,7 @@
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "vizseq",
-            "stars": 463,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
-            "stars": 1116,
+            "stars": 1115,
             "topics": [
               "c-sharp",
               "cron",
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T23:03:35Z",
-            "open_issues": 1043,
+            "last_commit": "2026-11-03T20:53:19Z",
+            "open_issues": 1045,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168460,
+            "stars": 168504,
             "topics": [
               "audio",
               "deep-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:08:23.248Z",
+    "last_updated": "2026-11-03T21:05:47.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

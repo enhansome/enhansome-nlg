@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T21:20:55Z",
-            "open_issues": 1037,
+            "last_commit": "2026-11-05T21:10:22Z",
+            "open_issues": 1058,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168543,
+            "stars": 168581,
             "topics": [
               "audio",
               "deep-learning",
@@ -754,7 +754,7 @@
             "open_issues": 30,
             "owner": "uber-research",
             "repo": "PPLM",
-            "stars": 1153,
+            "stars": 1154,
             "topics": [
               "deep-learning",
               "language-modeling",
@@ -983,7 +983,7 @@
             "open_issues": 9,
             "owner": "accelerated-text",
             "repo": "accelerated-text",
-            "stars": 806,
+            "stars": 805,
             "topics": [
               "clojure",
               "graphql",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:21:20.923Z",
+    "last_updated": "2026-11-05T21:29:18.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

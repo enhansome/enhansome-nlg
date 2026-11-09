@@ -218,7 +218,7 @@
             "open_issues": 3,
             "owner": "shawnwun",
             "repo": "RNNLG",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "benchmark-datasets",
               "deep-learning",
@@ -580,7 +580,7 @@
             "open_issues": 32,
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2224,
+            "stars": 2223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T19:29:03Z",
-            "open_issues": 1069,
+            "last_commit": "2026-11-09T23:27:52Z",
+            "open_issues": 1074,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168664,
+            "stars": 168710,
             "topics": [
               "audio",
               "deep-learning",
@@ -983,7 +983,7 @@
             "open_issues": 9,
             "owner": "accelerated-text",
             "repo": "accelerated-text",
-            "stars": 805,
+            "stars": 806,
             "topics": [
               "clojure",
               "graphql",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:45:30.738Z",
+    "last_updated": "2026-11-09T23:48:11.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

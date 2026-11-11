@@ -580,7 +580,7 @@
             "open_issues": 32,
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2223,
+            "stars": 2222,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T21:17:56Z",
-            "open_issues": 1070,
+            "last_commit": "2026-11-11T22:00:03Z",
+            "open_issues": 1077,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168748,
+            "stars": 168878,
             "topics": [
               "audio",
               "deep-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:20:29.602Z",
+    "last_updated": "2026-11-11T22:02:05.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

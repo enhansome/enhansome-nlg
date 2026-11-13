@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T21:34:01Z",
-            "open_issues": 1080,
+            "last_commit": "2026-11-13T21:26:38Z",
+            "open_issues": 1117,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168919,
+            "stars": 168952,
             "topics": [
               "audio",
               "deep-learning",
@@ -812,7 +812,7 @@
             "open_issues": 24,
             "owner": "turtlesoupy",
             "repo": "this-word-does-not-exist",
-            "stars": 1024,
+            "stars": 1023,
             "topics": [
               "gpt-2",
               "machine-learning",
@@ -1163,7 +1163,7 @@
             "open_issues": 10,
             "owner": "maetl",
             "repo": "calyx",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "dsl",
               "generative-art",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:51:46.785Z",
+    "last_updated": "2026-11-13T21:27:19.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

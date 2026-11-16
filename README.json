@@ -186,7 +186,7 @@
             "open_issues": 24,
             "owner": "rodrigopivi",
             "repo": "Chatito",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "chatbot",
               "chatbots",
@@ -317,7 +317,7 @@
             "open_issues": 32,
             "owner": "Maluuba",
             "repo": "nlg-eval",
-            "stars": 1392,
+            "stars": 1394,
             "topics": [
               "bleu",
               "bleu-score",
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T20:16:05Z",
-            "open_issues": 1150,
+            "last_commit": "2026-11-16T23:28:38Z",
+            "open_issues": 1108,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169000,
+            "stars": 169077,
             "topics": [
               "audio",
               "deep-learning",
@@ -733,7 +733,7 @@
             "open_issues": 133,
             "owner": "minimaxir",
             "repo": "aitextgen",
-            "stars": 1836,
+            "stars": 1837,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -782,7 +782,7 @@
             "open_issues": 80,
             "owner": "patil-suraj",
             "repo": "question_generation",
-            "stars": 1138,
+            "stars": 1139,
             "topics": [
               "deep-learning",
               "natural-language-generation",
@@ -840,7 +840,7 @@
             "open_issues": 0,
             "owner": "EagleW",
             "repo": "PaperRobot",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "attention-mechanism",
               "datasets",
@@ -947,7 +947,7 @@
             "open_issues": 1,
             "owner": "kasnerz",
             "repo": "lightnlg",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "bart",
               "generation",
@@ -1039,7 +1039,7 @@
             "open_issues": 17,
             "owner": "simplenlg",
             "repo": "simplenlg",
-            "stars": 834,
+            "stars": 835,
             "topics": [
               "java",
               "natural-language",
@@ -1191,7 +1191,7 @@
             "open_issues": 3,
             "owner": "spro",
             "repo": "nalgene",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "natural-language-generation",
               "nlg"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:26:01.202Z",
+    "last_updated": "2026-11-16T23:45:59.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",
@@ -1216,7 +1216,7 @@
       "open_issues": 0,
       "owner": "accelerated-text",
       "repo": "awesome-nlg",
-      "stars": 483,
+      "stars": 484,
       "topics": [
         "awesome",
         "awesome-list",

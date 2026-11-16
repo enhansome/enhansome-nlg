@@ -35,14 +35,14 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Dialog
 
 * [Plato](https://github.com/uber-research/plato-research-dialogue-system) ⚠️ Archived - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
-* [Chatito](https://github.com/rodrigopivi/Chatito) ⭐ 889 | 🐛 24 | 🌐 TypeScript | 📅 2023-09-03 - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
+* [Chatito](https://github.com/rodrigopivi/Chatito) ⭐ 890 | 🐛 24 | 🌐 TypeScript | 📅 2023-09-03 - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 * [RNNLG](https://github.com/shawnwun/RNNLG) ⭐ 491 | 🐛 3 | 🌐 Python | 📅 2019-07-02 - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
 * [NNDIAL](https://github.com/shawnwun/NNDIAL) ⭐ 354 | 🐛 7 | 🌐 Python | 📅 2017-06-14 - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
 * [TGen](https://github.com/UFAL-DSG/tgen) ⭐ 207 | 🐛 5 | 🌐 Python | 📅 2021-12-05 - Statistical NLG for spoken dialogue systems.
 
 ## Evaluation
 
-* [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,392 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
+* [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,394 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 * [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt) ⭐ 791 | 🐛 23 | 🌐 Python | 📅 2023-08-04
 * [compare-mt](https://github.com/neulab/compare-mt) ⭐ 472 | 🐛 5 | 🌐 Python | 📅 2025-09-22 - A tool for holistic analysis of language generations systems.
 * [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 464 | 🐛 3 | 🌐 Python | 📅 2026-11-01 - A Visual Analysis Toolkit for Text Generation Tasks.
@@ -69,18 +69,18 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 169,000 | 🐛 1,150 | 🌐 Python | 📅 2026-11-15 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 169,077 | 🐛 1,108 | 🌐 Python | 📅 2026-11-16 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,915 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,392 | 🐛 41 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
-* [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
+* [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,837 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
 * [PPLM](https://github.com/uber-research/PPLM) ⭐ 1,154 | 🐛 30 | 🌐 Python | 📅 2024-02-20 - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
-* [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) ⭐ 1,138 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2024-04-05 - Question generation is the task of automatically generating questions from a text paragraph.
+* [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) ⭐ 1,139 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2024-04-05 - Question generation is the task of automatically generating questions from a text paragraph.
 * [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) ⭐ 1,023 | 🐛 24 | 🌐 Python | 📅 2026-06-17 - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
-* [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) ⭐ 479 | 🐛 0 | 🌐 Python | 📅 2024-03-09 - We present a PaperRobot who performs as an automatic research assistant.
+* [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) ⭐ 480 | 🐛 0 | 🌐 Python | 📅 2024-03-09 - We present a PaperRobot who performs as an automatic research assistant.
 * [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2019-03-12 - For converting information present in the form of structured data into natural language text.
 * [graph-2-text](https://github.com/diegma/graph-2-text) ⭐ 152 | 🐛 10 | 🌐 Python | 📅 2019-07-12 - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 * [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) ⚠️ Archived - A Neural Network based generative model for captioning images using Tensorflow.
-* [lightnlg](https://github.com/kasnerz/lightnlg) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2023-01-23 - A minimalistic codebase for finetuning and interacting with NLG models using PyTorch Lightning.
+* [lightnlg](https://github.com/kasnerz/lightnlg) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-01-23 - A minimalistic codebase for finetuning and interacting with NLG models using PyTorch Lightning.
 
 ## Papers and Articles
 
@@ -109,7 +109,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Realizers
 
-* [SimpleNLG](https://github.com/simplenlg/simplenlg) ⭐ 834 | 🐛 17 | 🌐 Java | 📅 2024-12-06 - Java API for Natural Language Generation.
+* [SimpleNLG](https://github.com/simplenlg/simplenlg) ⭐ 835 | 🐛 17 | 🌐 Java | 📅 2024-12-06 - Java API for Natural Language Generation.
 * [JSrealB](https://github.com/rali-udem/JSrealB) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2026-09-12 - A JavaScript bilingual text realizer for web development.
 * [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) ⭐ 25 | 🐛 3 | 🌐 Java | 📅 2018-04-23 - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2.
 * [Genl](https://github.com/kowey/GenI) ⭐ 21 | 🐛 33 | 🌐 Haskell | 📅 2015-05-04 - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
@@ -118,7 +118,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Templating Languages
 
 * [calyx](https://github.com/maetl/calyx) ⭐ 63 | 🐛 10 | 🌐 Ruby | 📅 2022-11-01 - A Ruby library for generating text with recursive template grammars.
-* [nalgene](https://github.com/spro/nalgene) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2019-04-30 - Natural language generation language.
+* [nalgene](https://github.com/spro/nalgene) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2019-04-30 - Natural language generation language.
 * [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output.
 
 ## Videos
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

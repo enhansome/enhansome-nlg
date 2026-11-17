@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "google-research-datasets",
             "repo": "dstc8-schema-guided-dialogue",
-            "stars": 608,
+            "stars": 609,
             "topics": [
               "assistant",
               "dataset",
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T23:28:38Z",
-            "open_issues": 1108,
+            "last_commit": "2026-11-17T22:42:38Z",
+            "open_issues": 1109,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169077,
+            "stars": 169314,
             "topics": [
               "audio",
               "deep-learning",
@@ -669,7 +669,7 @@
             "open_issues": 145,
             "owner": "minimaxir",
             "repo": "textgenrnn",
-            "stars": 4915,
+            "stars": 4916,
             "topics": [
               "deep-learning",
               "keras",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:45:59.949Z",
+    "last_updated": "2026-11-17T22:58:51.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

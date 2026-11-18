@@ -42,7 +42,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Evaluation
 
-* [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,394 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
+* [NLG-eval](https://github.com/Maluuba/nlg-eval) ⭐ 1,395 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 * [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt) ⭐ 791 | 🐛 23 | 🌐 Python | 📅 2023-08-04
 * [compare-mt](https://github.com/neulab/compare-mt) ⭐ 472 | 🐛 5 | 🌐 Python | 📅 2025-09-22 - A tool for holistic analysis of language generations systems.
 * [VizSeq](https://github.com/facebookresearch/vizseq) ⭐ 464 | 🐛 3 | 🌐 Python | 📅 2026-11-01 - A Visual Analysis Toolkit for Text Generation Tasks.
@@ -58,7 +58,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Libraries
 
-* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,115 | 🐛 0 | 🌐 C# | 📅 2026-09-09 - A .NET library that converts cron expressions into human readable descriptions.
+* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,115 | 🐛 1 | 🌐 C# | 📅 2026-11-18 - A .NET library that converts cron expressions into human readable descriptions.
 * [Number Words](https://github.com/tokenmill/numberwords) ⭐ 200 | 🐛 1 | 🌐 Clojure | 📅 2021-01-20 - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 * [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
@@ -69,7 +69,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 169,314 | 🐛 1,109 | 🌐 Python | 📅 2026-11-17 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 169,218 | 🐛 1,109 | 🌐 Python | 📅 2026-11-18 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,916 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,392 | 🐛 41 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,837 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

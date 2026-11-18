@@ -317,7 +317,7 @@
             "open_issues": 32,
             "owner": "Maluuba",
             "repo": "nlg-eval",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "bleu",
               "bleu-score",
@@ -511,8 +511,8 @@
             "id": 3457099,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:34:10Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-18T20:50:15Z",
+            "open_issues": 1,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
             "stars": 1115,
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T22:42:38Z",
+            "last_commit": "2026-11-18T19:56:12Z",
             "open_issues": 1109,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169314,
+            "stars": 169218,
             "topics": [
               "audio",
               "deep-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:58:51.593Z",
+    "last_updated": "2026-11-18T22:37:23.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

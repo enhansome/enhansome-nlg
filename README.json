@@ -511,8 +511,8 @@
             "id": 3457099,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-19T14:55:09Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T15:09:43Z",
+            "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
             "stars": 1114,
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T20:47:02Z",
-            "open_issues": 1122,
+            "last_commit": "2026-11-24T00:17:32Z",
+            "open_issues": 1133,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169396,
+            "stars": 169273,
             "topics": [
               "audio",
               "deep-learning",
@@ -669,7 +669,7 @@
             "open_issues": 145,
             "owner": "minimaxir",
             "repo": "textgenrnn",
-            "stars": 4915,
+            "stars": 4916,
             "topics": [
               "deep-learning",
               "keras",
@@ -693,10 +693,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-21T02:23:58Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "asyml",
             "repo": "texar",
-            "stars": 2391,
+            "stars": 2392,
             "topics": [
               "bert",
               "casl-project",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:06:12.337Z",
+    "last_updated": "2026-11-24T02:19:42.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

@@ -157,7 +157,7 @@
             "open_issues": 3,
             "owner": "uber-archive",
             "repo": "plato-research-dialogue-system",
-            "stars": 979,
+            "stars": 980,
             "topics": [
               "conversational-agent",
               "conversational-ai",
@@ -511,7 +511,7 @@
             "id": 3457099,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T13:04:38Z",
+            "last_commit": "2026-11-25T14:05:08Z",
             "open_issues": 0,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
@@ -580,7 +580,7 @@
             "open_issues": 32,
             "owner": "galaxykate",
             "repo": "tracery",
-            "stars": 2221,
+            "stars": 2222,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.904Z"
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T23:49:48Z",
-            "open_issues": 1139,
+            "last_commit": "2026-11-25T23:11:52Z",
+            "open_issues": 1154,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169276,
+            "stars": 169326,
             "topics": [
               "audio",
               "deep-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:56:55.545Z",
+    "last_updated": "2026-11-25T23:41:15.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

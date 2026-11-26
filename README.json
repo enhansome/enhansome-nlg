@@ -249,7 +249,7 @@
             "open_issues": 7,
             "owner": "shawnwun",
             "repo": "NNDIAL",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "dialogue",
               "dialogue-agents",
@@ -512,7 +512,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-25T14:05:08Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "bradymholt",
             "repo": "cron-expression-descriptor",
             "stars": 1114,
@@ -624,11 +624,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T23:11:52Z",
-            "open_issues": 1154,
+            "last_commit": "2026-11-26T23:52:03Z",
+            "open_issues": 1180,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169326,
+            "stars": 169371,
             "topics": [
               "audio",
               "deep-learning",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:41:15.645Z",
+    "last_updated": "2026-11-26T23:54:25.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources dedicated to Natural Language Generation (NLG)",

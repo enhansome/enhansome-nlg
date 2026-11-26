@@ -37,7 +37,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 * [Plato](https://github.com/uber-research/plato-research-dialogue-system) ⚠️ Archived - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
 * [Chatito](https://github.com/rodrigopivi/Chatito) ⭐ 890 | 🐛 24 | 🌐 TypeScript | 📅 2023-09-03 - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 * [RNNLG](https://github.com/shawnwun/RNNLG) ⭐ 490 | 🐛 3 | 🌐 Python | 📅 2019-07-02 - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
-* [NNDIAL](https://github.com/shawnwun/NNDIAL) ⭐ 353 | 🐛 7 | 🌐 Python | 📅 2017-06-14 - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
+* [NNDIAL](https://github.com/shawnwun/NNDIAL) ⭐ 354 | 🐛 7 | 🌐 Python | 📅 2017-06-14 - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
 * [TGen](https://github.com/UFAL-DSG/tgen) ⭐ 207 | 🐛 5 | 🌐 Python | 📅 2021-12-05 - Statistical NLG for spoken dialogue systems.
 
 ## Evaluation
@@ -58,7 +58,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Libraries
 
-* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,114 | 🐛 0 | 🌐 C# | 📅 2026-11-25 - A .NET library that converts cron expressions into human readable descriptions.
+* [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) ⭐ 1,114 | 🐛 2 | 🌐 C# | 📅 2026-11-25 - A .NET library that converts cron expressions into human readable descriptions.
 * [Number Words](https://github.com/tokenmill/numberwords) ⭐ 200 | 🐛 1 | 🌐 Clojure | 📅 2021-01-20 - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 * [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
@@ -69,7 +69,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Neural Natural Language Generation
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 169,326 | 🐛 1,154 | 🌐 Python | 📅 2026-11-25 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 169,371 | 🐛 1,180 | 🌐 Python | 📅 2026-11-26 - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 * [textgenrnn](https://github.com/minimaxir/textgenrnn) ⭐ 4,915 | 🐛 145 | 🌐 Python | 📅 2022-07-17 - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 * [Texar](https://github.com/asyml/texar) ⭐ 2,392 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 * [aitextgen](https://github.com/minimaxir/aitextgen) ⭐ 1,836 | 🐛 133 | 🌐 Python | 📅 2023-07-14 - A robust Python tool for text-based AI training and generation using GPT-2.
@@ -137,4 +137,4 @@ To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
